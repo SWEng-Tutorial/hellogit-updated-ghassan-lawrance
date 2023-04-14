@@ -20,7 +20,17 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Ghassan Gharzuzy added"
+		   text="Lawrence added"
+		   textFill="blueviolet"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+  	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Ghassan Garzuzy added"
 		   textFill="cyan"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
@@ -28,6 +38,6 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-
+  
 </VBox>
 
